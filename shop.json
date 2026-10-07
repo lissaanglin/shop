@@ -1,0 +1,45 @@
+{
+  "intro": "Everything from my videos, newest first ✨",
+  "posts": [
+    {
+      "id": "teen-boy-bedroom",
+      "title": "Teen boy bedroom makeover",
+      "date": "2026-10",
+      "intro": "Walnut, navy + a little LED glow. Here's where every piece came from.",
+      "video": "https://www.tiktok.com/@lissaanglin/video/7692230929074441485",
+      "groups": [
+        {
+          "heading": "The shelves",
+          "items": [
+            {"name": "Walnut butcher block shelf", "detail": "Hardwood Reflections · 72\" · Home Depot", "url": "https://www.homedepot.com/p/HARDWOOD-REFLECTIONS-Solid-Wood-Butcher-Block-Shelf-72-in-W-X-12-in-D-X-1-5-in-H-in-Walnut-Stain-Hevea-UV-Finish-HD1512FJRWDWUV-72/319108128", "tracked": false},
+            {"name": "Hidden floating shelf brackets", "detail": "Heavy-duty black L brackets · Amazon", "url": "https://amzn.to/3VT29Dc", "tracked": true}
+          ]
+        },
+        {
+          "heading": "The glow",
+          "items": [
+            {"name": "LED strip lights", "detail": "Warm white or full color · cut to size · Amazon", "url": "https://www.amazon.com/dp/B0FHK2G7RX?tag=lissaanglin-20", "tracked": true},
+            {"name": "Paintable cord cover", "detail": "Paint it the wall color and it disappears · Amazon", "url": "https://amzn.to/4zcqrXe", "tracked": true}
+          ]
+        },
+        {
+          "heading": "The walls",
+          "items": [
+            {"name": "Black felt pin boards", "detail": "Corkboard alternative · 6 pack · Amazon", "url": "https://amzn.to/4hIoKKa", "tracked": true},
+            {"name": "Walnut poster frame", "detail": "22x28 matted to 18x24 · Walmart", "url": "https://www.walmart.com/ip/Mainstays-22x28-matted-to-18x24-Walnut-Rounded-Corner-Poster-Frame/5670960634", "tracked": false},
+            {"name": "Black museum frame", "detail": "16x20 · Walmart", "url": "https://www.walmart.com/ip/Mainstays-16x20-Black-Museum-Poster-Wall-Picture-Frame/3056797669", "tracked": false}
+          ]
+        },
+        {
+          "heading": "Bed + floor",
+          "items": [
+            {"name": "Washed cotton sateen quilt", "detail": "Threshold · Target", "url": "https://www.target.com/p/washed-cotton-sateen-quilt-threshold/-/A-82072150?preselect=81786139", "tracked": false},
+            {"name": "Quilted shams", "detail": "Room Essentials · Target", "url": "https://www.target.com/p/standard-microfiber-quilt-sham-room-essentials/-/A-94111018?preselect=93994611", "tracked": false},
+            {"name": "Leather bolster pillow cover", "detail": "7x18 neck roll · Amazon", "url": "https://amzn.to/4zhXh9h", "tracked": true},
+            {"name": "Portland rug", "detail": "Livabliss · Sam's Club", "url": "https://www.samsclub.com/ip/Livabliss-Portland-Rug-Assorted-Designs-and-Sizes/19687965145", "tracked": false}
+          ]
+        }
+      ]
+    }
+  ]
+}
