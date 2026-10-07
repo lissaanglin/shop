@@ -1,11 +1,11 @@
-/* lissaanglin.com/shop renderer — reads shop.json from the same folder
+/* lissaanglin.com/shop renderer — reads shop.json from GitHub
    and draws it into <div id="ll-shop">. Edit shop.json, not this file. */
 (function () {
   var mount = document.getElementById('ll-shop');
   if (!mount) return;
-  var base = (document.currentScript && document.currentScript.src || '').replace(/[^\/]*$/, '');
+  var DATA = 'https://raw.githubusercontent.com/lissaanglin/shop/main/shop.json';
   function esc(s){return String(s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
-  fetch(base + 'shop.json?v=' + Date.now())
+  fetch(DATA + '?v=' + Date.now(), {cache: 'no-store'})
     .then(function (r) { return r.json(); })
     .then(function (d) {
       var h = '';
